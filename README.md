@@ -21,3 +21,7 @@ Chris Simmons, Turing Educator (and my brother), was also a huge help.
 
 Please refer to the LICENSE in the repo.
 
+## Updates
+-- link https://ssimmons122.github.io/prework-study-guide/ 
+-- screenshot 
+![Screenshot 2023-03-12 at 11 44 44 PM](https://user-images.githubusercontent.com/121777930/224603658-15aad6c4-9d3e-41e2-a60f-6fad5b4fe6e6.png)
